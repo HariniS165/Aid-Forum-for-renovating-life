@@ -1,2 +1,5 @@
-# Aid-Forum-for-renovating-life-using-Machine-learning
+# Aid-Forum-for-renovating-life
 Developed a Graphical user interface where people can donate, view and request the products with help of Python language
+
+ABSTRACT
+In today’s world, people face a lot of disasters. It may be natural or man-made. In a disaster, people may also suffer from a lack of essential materials and also face some physical health problems. The Aid Forum will be beneficial for both giving and receiving aid. Aid Forum is a platform where volunteers can contribute things like clothes, toys, blankets, sanitary products, etc. Aid Forum also helps people suffering from poverty with donated clothes, books and others. The contact details and the address of the organization will be displayed where people can donate and get helped by. We built our project Aid Forum using a python toolkit named Tkinter which is cross-platform to make the forum interactive and MySQL for database management. This forum will be useful for the volunteers as well as the needy. It will ensure that the donated things are used effectively and reach the needy.
